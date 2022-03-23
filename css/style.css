@@ -1,0 +1,18 @@
+.center {
+    text-align: center;
+}
+
+.respuestas {
+    display: flex;
+    justify-content: center;
+}
+
+.primera {
+    margin-right: 20px;
+    padding: 20px;
+}
+
+.resultado {
+    display: flex;
+    justify-content: center;
+}
